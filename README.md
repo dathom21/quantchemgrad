@@ -1,0 +1,1 @@
+These Mathematica notebooks form the core curriculum of an introductory quantum chemistry course for graduate students. The course is designed to provide an overview for all graduate students in chemistry, even those who have little prior experience with quantum chemistry. 
